@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : 联系我们
+  subtitle : 联系方式
+  content : 精致改变生活，云算创新科技
+
+  # Contact details
+  contact_list:
+    # - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    #   info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+      
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: +880-31-000-000"
+      
+    # - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+    #   info : "Fax: +880-31-000-000"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "电子邮件: alin.run@foxmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "你的姓名"
+    email : "你的电子邮件"
+    subject : "主题"
+    message : "信息"
+    submit : "提交"
