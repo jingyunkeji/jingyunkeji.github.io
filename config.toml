@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://jingyunkeji.github.io/"
 title = "精云科技"
 theme = "meghna-hugo"
 themesDir = "./themes"
