@@ -4,7 +4,7 @@ banner:
   bg_image_webp : "images/backgrounds/hero-area.webp"
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "精致改变生活，云算创新科技"
+  title : "精致改变生活\n云算创新科技"
   content : "精云科技"
   button:
     enable : true
