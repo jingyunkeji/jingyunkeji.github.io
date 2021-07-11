@@ -22,7 +22,7 @@ contact:
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "你的姓名"
     email : "你的电子邮件"

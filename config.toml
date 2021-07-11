@@ -45,7 +45,7 @@ link = "plugins/google-map/map.js"
 
 ################### Chinese Navigation ########################
 [[Languages.zh-cn.menu.main]]
-name = "关于"
+name = "关于我们"
 url = "#about"
 weight = 1
 
@@ -75,7 +75,7 @@ url = "#blog"
 weight = 6
 
 [[Languages.zh-cn.menu.main]]
-name = "联系"
+name = "联系我们"
 url = "#contact"
 weight = 7
 
@@ -162,7 +162,7 @@ weight = 7
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "南京精云科技有限公司 （jingyun tech）"
+description = "精云科技"
 author = "LeoWang"
 # Google Analytics
 google_analytics_id = "" # Your ID
