@@ -251,6 +251,23 @@
                 href="https://jingyunkeji.com/author/john-doe/"
                 />
   </url><url>
+    <loc>https://jingyunkeji.com/author/leo-wang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jingyunkeji.com/en/author/leo-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://jingyunkeji.com/fr/author/leo-wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://jingyunkeji.com/author/leo-wang/"
+                />
+  </url><url>
     <loc>https://jingyunkeji.com/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
