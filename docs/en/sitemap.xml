@@ -78,11 +78,6 @@
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://jingyunkeji.com/fr/blog/simple-blog-post-1/"
                 />
@@ -94,11 +89,6 @@
   </url><url>
     <loc>https://jingyunkeji.com/en/blog/simple-blog-post-2/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-2/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -114,11 +104,6 @@
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://jingyunkeji.com/fr/blog/simple-blog-post-3/"
                 />
@@ -130,11 +115,6 @@
   </url><url>
     <loc>https://jingyunkeji.com/en/blog/simple-blog-post-4/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-4/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -150,11 +130,6 @@
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://jingyunkeji.com/fr/blog/simple-blog-post-5/"
                 />
@@ -166,11 +141,6 @@
   </url><url>
     <loc>https://jingyunkeji.com/en/blog/simple-blog-post-6/</loc>
     <lastmod>2018-09-12T12:52:36+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/blog/simple-blog-post-6/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -237,11 +207,6 @@
     <loc>https://jingyunkeji.com/en/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://jingyunkeji.com/fr/author/john-doe/"
                 />
@@ -269,11 +234,6 @@
                 />
   </url><url>
     <loc>https://jingyunkeji.com/en/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://jingyunkeji.com/author/mark-dinn/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
