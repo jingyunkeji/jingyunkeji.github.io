@@ -3,7 +3,7 @@ contact:
   enable : true
   title : 联系我们
   subtitle : 联系方式
-  content : 精致改变生活，云算创新科技
+  # content : 精致改变生活，云算创新科技
 
   # Contact details
   contact_list:

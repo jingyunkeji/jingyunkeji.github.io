@@ -196,6 +196,10 @@ link = "#"
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "https://github.com/jingyunkeji"
 
+# [[params.social]]
+# icon = "ti-wechat"
+# link = "http://weixin.qq.com/r/IhHVzc-EipL1rYuu90Qw"
+
 
 ################################ Chinese Language ########################
 [Languages.zh-cn]
