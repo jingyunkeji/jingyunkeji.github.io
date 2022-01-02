@@ -12,7 +12,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 defaultContentLanguage = "zh-cn"
-publishdir = "docs"
 
 ############################# Plugins ##########################
 # css plugins
@@ -208,7 +207,7 @@ languageCode = "zh-cn"
 contentDir = "content/chinese"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 南京精云科技有限公司"
+copyright = "Copyright &copy; 2021-2022 南京精云科技有限公司"
 
 ################################ English Language ########################
 [Languages.en]
@@ -217,7 +216,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Home"
-copyright = "Copyright &copy; 2021 jingyun tech"
+copyright = "Copyright &copy; 2021-2022 jingyun tech"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -226,5 +225,5 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 3
 home = "Accueil"
-copyright = "Copyright &copy; 2021 jingyun tech"
+copyright = "Copyright &copy; 2021-2022 jingyun tech"
 
